@@ -67,9 +67,11 @@
                 <extensions>
                     <allowed>
                         <pdf>1</pdf>
+                        <svg>1</svg>
                     </allowed>
                     <image_allowed>
                         <pdf>1</pdf>
+                        <svg>1</svg>
                     </image_allowed>
                 </extensions>
             </browser>
